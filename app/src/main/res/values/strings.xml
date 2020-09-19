@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProyectoPuntos</string>
+    <string name="x1">x1</string>
+    <string name="x2" >x2</string>
+    <string name="y1">y1</string>
+    <string name="y2">y2</string>
+    <string name="punto_m">Punto medio</string>
+    <string name="btn_pendiente">Pendiente</string>
+    <string name="btn_cuadrante">Cuadrante</string>
+</resources>
